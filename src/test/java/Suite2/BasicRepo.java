@@ -7,6 +7,7 @@ public class BasicRepo {
 	@Test
 	public void basicrepo1() {
 		System.out.println("Printing method of basicrepo1");
+		System.out.println("Done with Printing");
 
 	}
 
